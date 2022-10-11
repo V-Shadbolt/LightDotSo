@@ -1,9 +1,3 @@
-[submodule "apps/home"]
-	path = apps/home
-	url = https://github.com/LightDotSo/home
-[submodule "apps/api"]
-	path = apps/api
-	url = https://github.com/LightDotSo/api
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
